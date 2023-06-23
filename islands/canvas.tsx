@@ -14,9 +14,9 @@ export default function Canvas(props: { uid: string }) {
 
   const pallete = [
     "#000000",
-    "#a7f3d0",
+    "#ffffff",
   ];
-  const penSizeList = [1, 2, 3, 5, 8, 10, 15];
+  const penSizeList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
 
   const [color, setColor] = useState("#000000");
 
