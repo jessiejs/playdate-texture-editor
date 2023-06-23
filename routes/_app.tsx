@@ -8,10 +8,10 @@ export default function App({ Component }: AppProps) {
       </div>
       <div class="bg-gray-800 mt-24 py-8 text-white text-center flex justify-center items-center gap-2">
         <div>
-          KV Sketch by hashrock
+          Playdate Texture Editor
         </div>
         <a
-          href="https://github.com/hashrock/kv-sketchbook"
+          href="https://github.com/jessiejs/playdate-texture-editor"
           class="inline-block text-white hover:text-gray-400"
         >
           <BrandGithub />
